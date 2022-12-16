@@ -62,10 +62,40 @@ https://www.quora.com/What-is-a-circle-How-can-we-define-if-it-is-a-circle-or-no
 https://www.mathplanet.com/education/geometry/circles/basic-information-about-circles
 https://www.mathopenref.com/circle.html
 
-Wassily Kandinsky and Piet Mondrian
-Lines
-Colors
-Colors by Wassily Kandinsky
-Colors by Piet Mondrian
+## Wassily Kandinsky and Piet Mondrian
+https://www.wassily-kandinsky.org/piet-mondrian.jsp
+https://cache.kzoo.edu/handle/10920/20486
+https://www.wienand-verlag.de/Piet-Mondrian-Natur-und-Konstruktion.html
+https://rainereisch.com/ueber-das-geistige-in-der-kunst-100-jahre-nach-kandinsky-und-malewitsch-2/
+https://www.youtube.com/watch?v=UuyZ9CJwmnk
+
+## Lines
+https://byjus.com/maths/lines/
+https://www.youtube.com/watch?v=fSLY8pf_J4c
+https://www.thehistoryofart.org/wassily-kandinsky/transverse-line/
+https://www.thehistoryofart.org/wassily-kandinsky/black-lines/
+https://www.meisterdrucke.de/kunstdrucke/Wassily-Kandinsky/557692/Schnittlinien,-1923.html
+
+## Colors
+https://www2.vobs.at/ball-online/topics/colours/Project_colours.htm
+https://www.britannica.com/science/color
+https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/
+https://www.usability.gov/how-to-and-tools/methods/color-basics.html
+https://www.youtube.com/watch?v=UZ5UGnU7oOI
+
+## Colors by Wassily Kandinsky
+https://artwizard.eu/wassily-kandinsky---how-the-blue-color-sounds-ar-93
+https://artsandculture.google.com/story/nwXxmHuhPl1jLg
+https://www.faena.com/aleph/what-do-colors-sound-like-according-to-wassily-kandinsky
+https://emeraldpropainting.com/color-theory-wassily-kandinsky/
+https://www.denverartmuseum.org/en/blog/wassily-kandinskys-symphony-colors
+
+## Colors by Piet Mondrian
+https://artincontext.org/piet-mondrian/
+https://www.piet-mondrian.org/composition-with-color-planes.jsp
+https://isfdn.org/art-docent-lessons/all-grades/mondrians-primary-colors/
+https://www.kazoart.com/blog/en/piet-mondrian-color-block-harmony/
+https://www.youtube.com/watch?v=WII3Tapln64
+
 Transparency
 Interaction in Abstract Art
