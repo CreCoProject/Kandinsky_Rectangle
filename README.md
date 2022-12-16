@@ -13,13 +13,55 @@ Transparency such they can better Interact with another. The last thing I
 have done was in respect to Mondrian to restrict this colors to the four
 primary Colors.
 
-Wassily Kandinsky
-Abstract Art
-Kandinsky Point to Line to Surface
-Elements of Abstract Art
-Rectangles
-Triangles
-Circle
+## Wassily Kandinsky
+https://en.wikipedia.org/wiki/Wassily_Kandinsky
+https://www.britannica.com/biography/Wassily-Kandinsky
+https://www.hausaufderalb.de/wassily-kandinsky
+https://www.kandinskywassily.de/
+https://www.barnebys.de/blog/10-dinge-die-man-uber-wassily-kandinsky-wissen-sollte
+
+## Abstract Art
+https://en.wikipedia.org/wiki/Abstract_art
+https://www.artistsnetwork.com/art-inspiration/what-is-abstract-art/
+https://www.riseart.com/guide/2366/guide-to-abstract-art
+https://www.invaluable.com/blog/what-is-abstract-art/
+https://www.eden-gallery.com/news/what-is-abstract-art
+
+## Kandinsky Point to Line to Surface
+https://www.wassilykandinsky.net/book-117.php
+https://www.amazon.de/Point-Line-Plane-Wassily-Kandinsky/dp/1614275467
+https://archive.org/download/pointlinetoplane00kand/pointlinetoplane00kand.pdf
+https://www.galerie-bender.de/en/punkt-und-linie-zu-flaeche-frei-nach-kandinsky/
+https://www.youtube.com/watch?v=gyf2t0h65VE
+
+## Elements of Abstract Art
+https://www.markhumes.gallery/blogs/mark-humes-gallery-magazine/the-hidden-elements-within-abstract-art-%F0%9F%93%B0
+https://painterskeys.com/abstraction/
+https://www.britannica.com/art/abstract-art
+https://lobopopart.com.br/en/abstract-art/
+https://www.art-is-fun.com/understanding-abstract-art
+
+## Rectangles
+https://en.wikipedia.org/wiki/Rectangle
+https://ezoteriker.ru/en/kto-pridumal-pryamougolnik-chto-takoe-pryamougolnik-chastnye/
+https://www.themathdoctors.org/is-a-square-a-rectangle-classifying-shapes/
+https://www.javatpoint.com/what-is-rectangle
+https://www.youtube.com/watch?v=rIBRCV3luTk
+
+## Triangles
+https://en.wikipedia.org/wiki/Triangle
+https://www.mometrix.com/academy/introduction-to-types-of-triangles/
+https://www.youtube.com/watch?v=oQeK4LyKLHw
+https://study.com/learn/lesson/what-is-an-isosceles-triangle.html
+https://www.youtube.com/watch?v=DdAwGinauoI
+
+## Circle
+https://en.wikipedia.org/wiki/Circle
+https://www.quora.com/What-is-a-circle
+https://www.quora.com/What-is-a-circle-How-can-we-define-if-it-is-a-circle-or-not
+https://www.mathplanet.com/education/geometry/circles/basic-information-about-circles
+https://www.mathopenref.com/circle.html
+
 Wassily Kandinsky and Piet Mondrian
 Lines
 Colors
